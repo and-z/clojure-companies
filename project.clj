@@ -20,6 +20,8 @@
 
   :dependencies
   [[aleph "0.4.6"]
+   [byte-streams "0.2.4"]
+   [hickory "0.7.1"]
    [org.clojure/clojure "1.10.0"]
    [io.aviso/pretty "0.1.35"]]
 
