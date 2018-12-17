@@ -7,6 +7,7 @@
                   ["v" "update"]
                   #_["vcs" "push"]
                   #_["deploy"]]
+  :v {:sign "--no-sign"}
   :plugins [[com.roomkey/lein-v "6.4.0"]
             [io.aviso/pretty "0.1.35"]]
   :dependencies [[org.clojure/clojure "1.10.0"]
